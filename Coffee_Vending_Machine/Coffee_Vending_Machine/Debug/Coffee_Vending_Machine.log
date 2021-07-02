@@ -1,0 +1,17 @@
+﻿  Coffee-Vending-Machine.c
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(80,30): warning C4047: '=': 'int'의 간접 참조 수준이 'char [13]'과(와) 다릅니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(81,33): warning C4047: '=': 'int'의 간접 참조 수준이 'char [16]'과(와) 다릅니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(82,30): warning C4047: '=': 'int'의 간접 참조 수준이 'char [13]'과(와) 다릅니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(83,33): warning C4047: '=': 'int'의 간접 참조 수준이 'char [16]'과(와) 다릅니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(84,30): warning C4047: '=': 'int'의 간접 참조 수준이 'char [13]'과(와) 다릅니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(131,13): warning C4033: 'Insert_Money'은(는) 값을 반환해야 합니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(140,28): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(142,20): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(210,28): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(212,20): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(225,28): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(233,26): warning C4098: 'Coffe_Reset': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(240,28): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(242,20): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int'입니다.
+C:\Users\박민호\source\repos\Coffee_Vending_Machine\Coffee_Vending_Machine\Coffee-Vending-Machine.c(134): warning C4716: 'Insert_Money': 값을 반환해야 합니다.
+  Coffee_Vending_Machine.vcxproj -> C:\Users\박민호\source\repos\Coffee_Vending_Machine\Debug\Coffee_Vending_Machine.exe
